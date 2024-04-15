@@ -32,3 +32,8 @@ variable "key" {
     default = "clintontest"
   
 }
+
+variable "instance" {
+    type = number
+    default = 2
+}

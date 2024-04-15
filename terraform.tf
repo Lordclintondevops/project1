@@ -110,5 +110,6 @@ resource "aws_instance" "demo" {
       name = "demopub"
     }
 
+    count = var.instance
   
 }
