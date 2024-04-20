@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+
+  <groupId>your-group-id</groupId>
+  <artifactId>your-artifact-id</artifactId>
+  <version>your-version</version>
+  <packaging>your-packaging-type</packaging>
+
+  <dependencies>
+    <dependency>
+      <groupId>dependency-group-id</groupId>
+      <artifactId>dependency-artifact-id</artifactId>
+      <version>dependency-version</version>
+    </dependency>
+    </dependencies>
+
+  <build>
+    <plugins>
+      </plugins>
+  </build>
+
+</project>
+

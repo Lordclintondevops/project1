@@ -111,5 +111,7 @@ resource "aws_instance" "demo" {
     }
 
     count = var.instance
-  
+  user_data = {
+    
+  }
 }
